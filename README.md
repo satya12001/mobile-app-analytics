@@ -7,7 +7,7 @@ Analysis of real **Firebase Analytics** event data for a mobile app on iOS and A
 - **Workflow:** raw Firebase events (BigQuery) → SQL per question → charts and stats (Python) → dashboard and recommendations memo.
 - **Data:** Google's public Firebase export for *Flood-It!* (`firebase-public-project.analytics_153293282`): 5.7M events, 15K users. Analysis window: Jul 2 – Oct 3, 2018, with **3,894 new installs**.
 - **Tools:** BigQuery SQL (GA4/Firebase nested schema), Python (pandas, SciPy, matplotlib).
-- **Outputs:** [`dashboard.html`](dashboard.html) · [`memo.md`](memo.md) (one-page recommendations) · [`rehab_app_measurement_plan.md`](rehab_app_measurement_plan.md)
+- **Outputs:** [**Live dashboard**](https://satya12001.github.io/mobile-app-analytics/dashboard.html) · [`dashboard.html`](dashboard.html) · [`memo.md`](memo.md) (one-page recommendations) · [`rehab_app_measurement_plan.md`](rehab_app_measurement_plan.md)
 
 ---
 
