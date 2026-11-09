@@ -1,0 +1,5 @@
+variant,arm,users,returned_7d,avg_minutes_7d,sd_minutes_7d
+0,Baseline: ad every 4 games,996,313,15.01,58.38
+1,Ad every 2 games,949,278,12.14,31.19
+2,Ad every 8 games,971,287,14.77,40.28
+3,Ad every 16 games,1031,300,13.58,35.83

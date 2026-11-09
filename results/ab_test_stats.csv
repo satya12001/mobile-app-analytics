@@ -1,0 +1,4 @@
+arm,users,return_rate,diff_vs_baseline_pts,ci95_low_pts,ci95_high_pts,p_value_return,minutes_diff,p_value_minutes
+Ad every 2 games,949,0.293,-2.1,-6.2,2.0,0.307,-2.87,0.174
+Ad every 8 games,971,0.296,-1.9,-5.9,2.2,0.368,-0.24,0.915
+Ad every 16 games,1031,0.291,-2.3,-6.3,1.7,0.254,-1.43,0.508

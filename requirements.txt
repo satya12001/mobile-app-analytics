@@ -1,0 +1,6 @@
+google-cloud-bigquery
+db-dtypes
+pandas
+numpy
+scipy
+matplotlib
